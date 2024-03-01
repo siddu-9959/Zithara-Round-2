@@ -10,7 +10,7 @@ Step-2 : `npm start`
 
 Step-1 : `npm i` <br>
 Step-2 : `npm start`
-# PosgreSQL
+# PostgreSQL
 
 Step-1 : Create Database<br>
 Step-2 : Create Table<br>
