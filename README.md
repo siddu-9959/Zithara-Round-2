@@ -1,6 +1,6 @@
 # Zithara Round 2
 
-## Steps TO Run
+## Steps To Run
 
 # FrontEnd
 
