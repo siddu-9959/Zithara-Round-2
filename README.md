@@ -4,8 +4,8 @@
 
 # FrontEnd
 
-Step-1 : ```npm i``` br
-Step-2 : ```npm start``` br
+Step-1 : ```npm i``` <br>
+Step-2 : ```npm start```
 
 # BackEnd
 
