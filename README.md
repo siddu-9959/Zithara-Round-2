@@ -4,12 +4,12 @@
 
 # FrontEnd
 
-Step-1 : ```npm i``` <br>
-Step-2 : ```npm start```
+Step-1 : `npm i` <br>
+Step-2 : `npm start`
 # BackEnd
 
-Step-1 : ```npm i``` <br>
-Step-2 : ```npm start```
+Step-1 : `npm i` <br>
+Step-2 : `npm start`
 # PosgreSQL
 
 Step-1 : Create Database<br>
